@@ -26,7 +26,9 @@ body {
     top: 16px;
     right: 16px;
     width: 300px;
-    height: 150px;
+    height: 200px;
+    border: 1px solid wheat;
+
 }
 
 .top-left {
@@ -34,6 +36,8 @@ body {
     left: 16px;
     width: 300px;
     height: 200px;
+    border: 1px solid wheat;
+
 }
 
 .bottom-left {
@@ -41,13 +45,17 @@ body {
     left: 16px;
     width: 300px;
     height: 200px;
+    border: 1px solid wheat;
+
 }
 
 .bottom-right {
     bottom: 16px;
     right: 16px;
-    width: 200px;
+    width: 300px;
     height: 200px;
+    border: 1px solid wheat;
+
 }
 
 .flex-container {
